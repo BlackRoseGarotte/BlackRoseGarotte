@@ -13,31 +13,31 @@
 ## 2. Создание проекта
 Был создан репозиторий, совпадающий с логином в GitHub.
 
-![pic](../BlackRoseGarotte/images/project_github.png)
+![pic](images/project_github.png)
 
 ## 3. Копирование репозитория на локальный компьютер
 Я создал пару ключ значение для аутентификации на GitHub через SSH. Публичный код я вставил в свой профиль.
 
-![alt text](../BlackRoseGarotte/images/ssh.png)
+![alt text](images/ssh.png)
 
-![pic](../BlackRoseGarotte/images/ssh2.png)
+![pic](images/ssh2.png)
 
 Далее была скопирована SSH-ссылка из GitHub, а затем был использован git clone.
 
-![alt text](../BlackRoseGarotte/images/git_clone.png)
+![alt text](images/git_clone.png)
 
 Создание новой ветки для работы.
 
-![alt text](../BlackRoseGarotte/images/git_branch.png)
+![alt text](images/git_branch.png)
 
 ## 4. Создание структуры файлов
 Создание папки images для всех изображений.
 
-![alt text](../BlackRoseGarotte/images/md_images.png)
+![alt text](images/md_images.png)
 
 Создание файла readme.md
 
-![alt text](../BlackRoseGarotte/images/ni_readme.png)
+![alt text](images/ni_readme.png)
 
 ## 5. Добавление описания проекта
 
@@ -47,9 +47,9 @@
 
 Последним шагом стала загрузка проекта на GitHub.
 
-![alt text](../BlackRoseGarotte/images/git_commit.png)
+![alt text](images/git_commit.png)
 
-![alt text](../BlackRoseGarotte/images/git_push.png)
+![alt text](images/git_push.png)
 
 ## Вывод
 

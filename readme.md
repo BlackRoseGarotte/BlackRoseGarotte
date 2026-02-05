@@ -1,6 +1,6 @@
 # Приветствую! Добро пожаловать на мой GitHub.
 
-![pic](../BlackRoseGarotte/images/avatar.jpg)
+![pic](images/avatar.jpg)
 
 ---
 
