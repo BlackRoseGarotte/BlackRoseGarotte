@@ -10,7 +10,7 @@
 
 ### На данный момент в список моих интересов входят:
 - **Видеоигры**
-  - **Steam**: 
+  - **Steam**: https://steamcommunity.com/id/blackrosegarrotte
 - **Музыка**
   - **Spotify**: 
 - **Программрование**
