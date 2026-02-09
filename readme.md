@@ -30,4 +30,3 @@
 ### Мои контактные данные:
 - **email**: balevvadim123@gmail.com
 - **Telegram**: @blackrosegarrotte
-- **Steam**: https://steamcommunity.com/id/blackrosegarrotte
