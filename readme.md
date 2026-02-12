@@ -12,7 +12,7 @@
 - **Видеоигры**
   - **Steam**: https://steamcommunity.com/id/blackrosegarrotte
 - **Музыка**
-  - **Spotify**: 
+  - **Spotify**: https://open.spotify.com/user/31modfoqp67j255zfreyownttlzi?si=bd2e033767104f8b
 - **Программрование**
 
 ### За время учебы я успел освоить на базовом уровне:
